@@ -9,8 +9,8 @@ const josefinSans = Josefin_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Template",
-  description: "A Next.js template with shadcn/ui and tailwind css installed",
+  title: "Bento Grid",
+  description: "This is a solution to bento grid challenge on frontend mentor.",
 };
 
 export default function RootLayout({
