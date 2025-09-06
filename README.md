@@ -1,9 +1,11 @@
-# Next.js Template
+# Frontend Mentor - Bento Grid
 
-A starter template repository with next.js using app router, pre-configured with typescript, tailwind css and shadcn/ui.
+This is a solution to the [bento grid challenge on frontend mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). 
 
 ## Table of contents
 
+- [Overview](#overview)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Getting Started](#getting-started)
@@ -11,6 +13,12 @@ A starter template repository with next.js using app router, pre-configured with
   - [Installing Dependencies](#installing-dependencies)
   - [Running the Development Server](#running-the-development-server)
 - [Author](#author)
+
+## Overview
+
+### Links
+
+- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-z6b9rhXLIi](https://www.frontendmentor.io/solutions/news-homepage-z6b9rhXLIi)
 
 ## My process
 
@@ -28,13 +36,13 @@ Follow these steps to get a copy of the project up and running on your local mac
 ### Cloning the repository
 
 ```sh
-git clone https://github.com/krutagna31/nextjs-template.git
+git clone git@github.com:krutagna31/bento-grid.git
 ```
 
 ### Installing dependencies
 
 ```sh
-cd nextjs-template
+cd bento-grid
 npm install
 ```
 
@@ -47,3 +55,4 @@ npm run dev
 ## Author
 
 - Website - [Krutagna Patel](https://flowcv.me/krutagna-patel)
+- Frontend Mentor - [@krutagna31](https://www.frontendmentor.io/profile/krutagna31)
