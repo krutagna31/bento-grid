@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
-import { Josefin_Sans } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 import { ThemeProvider } from "@/context/theme-provider";
 import { Header } from "@/components/sections";
 import "./globals.css";
 
-const josefinSans = Josefin_Sans({
+const dmSans = DM_Sans({
   subsets: ["latin"],
 });
 
@@ -20,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${josefinSans.className} antialiased`}>
+      <body className={`${dmSans.className} antialiased`}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
